@@ -2,9 +2,9 @@
 
 // Source Code
 
-//Sing in.gml
-//Sing up.gml
+//계정 접속 Sing in.gml
+//계정 가입 Sing up.gml
 
-//Main.gml
+//로그인후 메인 Main.gml
 
-//Other tool
+//기타 메뉴 Other tool
